@@ -1,0 +1,12 @@
+.pio
+.vscode
+.cache
+bin
+dist
+*.pyc
+data
+# C Lion
+.idea
+cmake-build-*
+CMakeLists.txt
+CMakeListsPrivate.txt
